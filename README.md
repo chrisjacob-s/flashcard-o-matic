@@ -1,7 +1,7 @@
 # Flashcard-o-matic
 Front-End Deployment: https://flashcard-o-matic-chrisjacob-s.vercel.app/
 
-*No Back-end to app has been developed yet, so it can only be run locally*
+**No Back-end to app has been developed yet, so it can only be run _locally_ **
 
 __________________________________________________________________________
 
